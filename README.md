@@ -48,7 +48,14 @@ Below are the tasks that can be performed by each user type
 - Edit profile
 	* Click on Edit Profile tab, change the details and click on Update User
 - Search Rooms
-	* Search and reserve a room based on schedule.
+	* This will display all the list of reservations.
+	* Search rooms has view bookings tab and click that and search for a room then it  will have option to book a room.
+	*It will also have option to release room.
 - View booking history
 	* Can view his booking history
-	
+Cases handled:
+When an admin deletes a user his reservations are also deleted.
+when an admin deletes a room bookings containing that room are also deleted.
+
+
+
