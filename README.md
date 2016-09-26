@@ -43,7 +43,7 @@ Below are the tasks that can be performed by each user type
 		* Delete - To delete the user
 - View Booking
   * Can search a room to know the status of room
-		* Based on search criteria a room can be reserved
+		* Based on search criteria a room can be reserved <br> <br>
 <b> User </b>
 - Edit profile
 	* Click on Edit Profile tab, change the details and click on Update User
