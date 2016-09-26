@@ -2,9 +2,10 @@ NCSU Library Room Booking
 
 Created by
 
-Vamshidhar Reddy Palle (vpalle)
-Rushabh Ajay Doshi (radoshi)
-Anshul Goel (agoel4)
+Vamshidhar Reddy Palle (vpalle)<br>
+Rushabh Ajay Doshi (radoshi)<br>
+Anshul Goel (agoel4) <br>
+<br>
 <b>Pre-configured Admin and User Details:</b>
 <table border=1>
 	<th> Role </th>
