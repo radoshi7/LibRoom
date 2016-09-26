@@ -52,7 +52,7 @@ Below are the tasks that can be performed by each user type
 	* Search rooms has view bookings tab and click that and search for a room then it  will have option to book a room.
 	*It will also have option to release room.
 - View booking history
-	* Can view his booking history
+	* Can view his booking history <br>
 <b>Cases handled:</b>
 -When an admin deletes a user his reservations are also deleted.
 -when an admin deletes a room bookings containing that room are also deleted.
