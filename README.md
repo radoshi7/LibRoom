@@ -53,9 +53,9 @@ Below are the tasks that can be performed by each user type
 	*It will also have option to release room.
 - View booking history
 	* Can view his booking history
-Cases handled:
-When an admin deletes a user his reservations are also deleted.
-when an admin deletes a room bookings containing that room are also deleted.
+<b>Cases handled:</b>
+-When an admin deletes a user his reservations are also deleted.
+-when an admin deletes a room bookings containing that room are also deleted.
 
 
 
